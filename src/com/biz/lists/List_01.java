@@ -38,6 +38,7 @@ public class List_01 {
 		System.out.println(strList.get(2).toString());
 		System.out.println(strList.get(3).toString());
 		
+		
 	}
 
 }
